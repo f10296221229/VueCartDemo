@@ -1,0 +1,28 @@
+{
+  "allShops":{
+    "totalMoney":0,
+    "shopList":[
+      {
+        "shopId":"1001",
+        "shopName":"360智能攝像機雲端版 全景監控 360全景雲台1080P",
+        "shopPrice":299.00,
+        "shopNumber":1,
+        "shopImage":"images/img_01.jpg"
+      },
+      {
+        "shopId":"1002",
+        "shopName":"尼康（Nikon） D610 單反機身",
+        "shopPrice":7199.00,
+        "shopNumber":1,
+        "shopImage":"images/img_02.jpg"
+      },
+      {
+        "shopId":"1003",
+        "shopName":"榮耀 暢玩6X 4GB 32GB 全網通4G手機 高配版 冰河銀",
+        "shopPrice":1299.00,
+        "shopNumber":1,
+        "shopImage":"images/img_03.jpg"
+      }
+    ]
+  }
+}
